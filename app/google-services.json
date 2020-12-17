@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "752278192252",
+    "firebase_url": "https://demoad-26648.firebaseio.com",
+    "project_id": "demoad-26648",
+    "storage_bucket": "demoad-26648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752278192252:android:df0e40c7b5f149be",
+        "android_client_info": {
+          "package_name": "com.aswinwibisurya.demoad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752278192252-0r57hb4183kv43899k0bb9egkiucv9t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aswinwibisurya.demoad",
+            "certificate_hash": "5913412cfaf05fa9fc38ee02325f7d620f320622"
+          }
+        },
+        {
+          "client_id": "752278192252-d6a05oc698tfenginolmg790fb7jdus1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH59nfXUXlWUUjo1brnbwyGRpbaSSFei4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752278192252-d6a05oc698tfenginolmg790fb7jdus1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752278192252:android:e8e499f0552abc25ad09f9",
+        "android_client_info": {
+          "package_name": "com.example.aswin.mysimplemessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752278192252-i51aj9nk25bddpsooo5jjtu24pcdq202.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aswin.mysimplemessaging",
+            "certificate_hash": "73a6461c654e99d21bc8038d06207e514c1b872a"
+          }
+        },
+        {
+          "client_id": "752278192252-d6a05oc698tfenginolmg790fb7jdus1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH59nfXUXlWUUjo1brnbwyGRpbaSSFei4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752278192252-d6a05oc698tfenginolmg790fb7jdus1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
